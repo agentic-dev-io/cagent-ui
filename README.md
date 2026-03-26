@@ -1,5 +1,7 @@
 # 🤖 `cagent` 🤖
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N71WOHZ3)
+
 > A powerful, easy to use, customizable multi-agent runtime that orchestrates AI agents with
 > specialized capabilities and tools, and the interactions between agents.
 
